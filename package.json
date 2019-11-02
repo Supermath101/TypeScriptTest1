@@ -8,5 +8,8 @@
   "bugs": {
     "url": "https://github.com/Supermath101/TypeScriptTest1/issues"
   },
-  "homepage": "https://github.com/Supermath101/TypeScriptTest1#readme"
+  "homepage": "https://github.com/Supermath101/TypeScriptTest1#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.5"
+  }
 }
