@@ -1,0 +1,12 @@
+{
+  "name": "typescripttest1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supermath101/TypeScriptTest1.git"
+  },
+  "author": "Supermath101",
+  "bugs": {
+    "url": "https://github.com/Supermath101/TypeScriptTest1/issues"
+  },
+  "homepage": "https://github.com/Supermath101/TypeScriptTest1#readme"
+}
